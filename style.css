@@ -1,0 +1,17 @@
+body{
+  padding-left: 80px;  
+  font-family: 'Inconsolata', monospace;
+}
+
+h2{
+    color: rgb(203, 182, 157);
+}
+
+button{
+    font-size: large;
+    border-radius: 30px;
+    padding-inline: 10px;
+    background-color: white;
+    color:rgb(203, 182, 157);
+    border-color: rgb(203, 182, 157);
+}
